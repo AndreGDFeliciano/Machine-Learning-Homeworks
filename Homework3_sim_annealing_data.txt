@@ -1,0 +1,473 @@
+Iteration 1: New  MAE = 4.3799 with params ['alpha': 0.0018, 'learning_rate_init': 0.0140, 'batch_size': 32]
+current_mae =  3.8730950969770586
+new_mae =  4.379918798130376
+0.9386121201990808
+Iteration 1: Best MAE = 4.3799 with params {'alpha': 0.0018098265318492685, 'learning_rate_init': 0.013961901213832669, 'batch_size': 32}
+Iteration 2: New  MAE = 4.7799 with params ['alpha': 0.0011, 'learning_rate_init': 0.0141, 'batch_size': 32]
+current_mae =  4.379918798130376
+new_mae =  4.779912109708293
+0.9487303149514368
+Iteration 2: Best MAE = 4.3799 with params {'alpha': 0.0018098265318492685, 'learning_rate_init': 0.013961901213832669, 'batch_size': 32}
+Iteration 3: New  MAE = 4.3514 with params ['alpha': 0.0012, 'learning_rate_init': 0.0145, 'batch_size': 32]
+current_mae =  4.779912109708293
+new_mae =  4.3514348463216
+Iteration 3: Best MAE = 4.3514 with params {'alpha': 0.0011996780226054189, 'learning_rate_init': 0.014501585016659173, 'batch_size': 32}
+Iteration 4: New  MAE = 4.7115 with params ['alpha': 0.0012, 'learning_rate_init': 0.0143, 'batch_size': 32]
+current_mae =  4.3514348463216
+new_mae =  4.711529637554927
+0.9488546957788615
+Iteration 4: Best MAE = 4.3514 with params {'alpha': 0.0011996780226054189, 'learning_rate_init': 0.014501585016659173, 'batch_size': 32}
+Iteration 5: New  MAE = 5.1643 with params ['alpha': 0.0014, 'learning_rate_init': 0.0248, 'batch_size': 32]
+current_mae =  4.711529637554927
+new_mae =  5.164318592144084
+0.9328710883741287
+Iteration 5: Best MAE = 4.3514 with params {'alpha': 0.0011996780226054189, 'learning_rate_init': 0.014501585016659173, 'batch_size': 32}
+Iteration 6: New  MAE = 6.1862 with params ['alpha': 0.0025, 'learning_rate_init': 0.0259, 'batch_size': 32]
+current_mae =  5.164318592144084
+new_mae =  6.186241535358322
+0.847820823367943
+Iteration 6: Best MAE = 4.3514 with params {'alpha': 0.0011996780226054189, 'learning_rate_init': 0.014501585016659173, 'batch_size': 32}
+Iteration 7: New  MAE = 5.7643 with params ['alpha': 0.0027, 'learning_rate_init': 0.0328, 'batch_size': 32]
+current_mae =  6.186241535358322
+new_mae =  5.764332978370196
+Iteration 7: Best MAE = 4.3514 with params {'alpha': 0.0011996780226054189, 'learning_rate_init': 0.014501585016659173, 'batch_size': 32}
+Iteration 8: New  MAE = 4.5485 with params ['alpha': 0.0017, 'learning_rate_init': 0.0364, 'batch_size': 32]
+current_mae =  5.764332978370196
+new_mae =  4.548450579805127
+Iteration 8: Best MAE = 4.3514 with params {'alpha': 0.0011996780226054189, 'learning_rate_init': 0.014501585016659173, 'batch_size': 32}
+Iteration 9: New  MAE = 4.5692 with params ['alpha': 0.0018, 'learning_rate_init': 0.0467, 'batch_size': 32]
+current_mae =  4.548450579805127
+new_mae =  4.569235191793019
+0.9960914742179349
+Iteration 9: Best MAE = 4.3514 with params {'alpha': 0.0011996780226054189, 'learning_rate_init': 0.014501585016659173, 'batch_size': 32}
+Iteration 10: New  MAE = 4.3195 with params ['alpha': 0.0025, 'learning_rate_init': 0.0364, 'batch_size': 32]
+current_mae =  4.569235191793019
+new_mae =  4.319531957867522
+Iteration 10: Best MAE = 4.3195 with params {'alpha': 0.0024804703943146914, 'learning_rate_init': 0.03637581656099197, 'batch_size': 32}
+Iteration 11: New  MAE = 5.4032 with params ['alpha': 0.0062, 'learning_rate_init': 0.0356, 'batch_size': 32]
+current_mae =  4.319531957867522
+new_mae =  5.4032066177059255
+0.797525223933012
+Iteration 11: Best MAE = 4.3195 with params {'alpha': 0.0024804703943146914, 'learning_rate_init': 0.03637581656099197, 'batch_size': 32}
+Iteration 12: New  MAE = 4.9841 with params ['alpha': 0.0054, 'learning_rate_init': 0.0249, 'batch_size': 32]
+current_mae =  5.4032066177059255
+new_mae =  4.984128187335536
+Iteration 12: Best MAE = 4.3195 with params {'alpha': 0.0024804703943146914, 'learning_rate_init': 0.03637581656099197, 'batch_size': 32}
+Iteration 13: New  MAE = 4.8418 with params ['alpha': 0.0076, 'learning_rate_init': 0.0184, 'batch_size': 32]
+current_mae =  4.984128187335536
+new_mae =  4.841807238214335
+Iteration 13: Best MAE = 4.3195 with params {'alpha': 0.0024804703943146914, 'learning_rate_init': 0.03637581656099197, 'batch_size': 32}
+Iteration 14: New  MAE = 4.1175 with params ['alpha': 0.0146, 'learning_rate_init': 0.0137, 'batch_size': 32]
+current_mae =  4.841807238214335
+new_mae =  4.117476815660013
+Iteration 14: Best MAE = 4.1175 with params {'alpha': 0.014597370620623698, 'learning_rate_init': 0.01366691587565311, 'batch_size': 32}
+Iteration 15: New  MAE = 4.9652 with params ['alpha': 0.0204, 'learning_rate_init': 0.0142, 'batch_size': 32]
+current_mae =  4.117476815660013
+new_mae =  4.965233041047813
+0.8046922305559114
+Iteration 15: Best MAE = 4.1175 with params {'alpha': 0.014597370620623698, 'learning_rate_init': 0.01366691587565311, 'batch_size': 32}
+Iteration 16: New  MAE = 5.0172 with params ['alpha': 0.0267, 'learning_rate_init': 0.0183, 'batch_size': 32]
+current_mae =  4.965233041047813
+new_mae =  5.017154554793088
+0.9860887920767141
+Iteration 16: Best MAE = 4.1175 with params {'alpha': 0.014597370620623698, 'learning_rate_init': 0.01366691587565311, 'batch_size': 32}
+Iteration 17: New  MAE = 5.1223 with params ['alpha': 0.0189, 'learning_rate_init': 0.0219, 'batch_size': 32]
+current_mae =  5.017154554793088
+new_mae =  5.1223306702442715
+0.9705707495790218
+Iteration 17: Best MAE = 4.1175 with params {'alpha': 0.014597370620623698, 'learning_rate_init': 0.01366691587565311, 'batch_size': 32}
+Iteration 18: New  MAE = 5.7001 with params ['alpha': 0.0119, 'learning_rate_init': 0.0212, 'batch_size': 32]
+current_mae =  5.1223306702442715
+new_mae =  5.700055953988033
+0.8413773596044425
+Iteration 18: Best MAE = 4.1175 with params {'alpha': 0.014597370620623698, 'learning_rate_init': 0.01366691587565311, 'batch_size': 32}
+Iteration 19: New  MAE = 4.6450 with params ['alpha': 0.0239, 'learning_rate_init': 0.0234, 'batch_size': 32]
+current_mae =  5.700055953988033
+new_mae =  4.6449548824298175
+Iteration 19: Best MAE = 4.1175 with params {'alpha': 0.014597370620623698, 'learning_rate_init': 0.01366691587565311, 'batch_size': 32}
+Iteration 20: New  MAE = 3.8818 with params ['alpha': 0.0191, 'learning_rate_init': 0.0255, 'batch_size': 32]
+current_mae =  4.6449548824298175
+new_mae =  3.8818339990377657
+Iteration 20: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 21: New  MAE = 5.1067 with params ['alpha': 0.0206, 'learning_rate_init': 0.0192, 'batch_size': 32]
+current_mae =  3.8818339990377657
+new_mae =  5.1066834709542555
+0.6524040480723213
+Iteration 21: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 22: New  MAE = 4.7538 with params ['alpha': 0.0066, 'learning_rate_init': 0.0183, 'batch_size': 32]
+current_mae =  5.1066834709542555
+new_mae =  4.753826065561957
+Iteration 22: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 23: New  MAE = 4.9236 with params ['alpha': 0.0062, 'learning_rate_init': 0.0244, 'batch_size': 32]
+current_mae =  4.753826065561957
+new_mae =  4.9236424419859794
+0.9364959942060431
+Iteration 23: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 24: New  MAE = 5.0942 with params ['alpha': 0.0074, 'learning_rate_init': 0.0160, 'batch_size': 32]
+current_mae =  4.9236424419859794
+new_mae =  5.0942495358057664
+0.9329676295529846
+Iteration 24: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 25: New  MAE = 5.4076 with params ['alpha': 0.0091, 'learning_rate_init': 0.0124, 'batch_size': 32]
+current_mae =  5.0942495358057664
+new_mae =  5.407563645442313
+0.8744770465308772
+Iteration 25: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 26: New  MAE = 5.0592 with params ['alpha': 0.0217, 'learning_rate_init': 0.0145, 'batch_size': 32]
+current_mae =  5.407563645442313
+new_mae =  5.0592265488821475
+Iteration 26: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 27: New  MAE = 4.3390 with params ['alpha': 0.0128, 'learning_rate_init': 0.0144, 'batch_size': 32]
+current_mae =  5.0592265488821475
+new_mae =  4.339012326609985
+Iteration 27: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 28: New  MAE = 4.5938 with params ['alpha': 0.0068, 'learning_rate_init': 0.0134, 'batch_size': 32]
+current_mae =  4.339012326609985
+new_mae =  4.593760235090474
+0.8805585271327325
+Iteration 28: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 29: New  MAE = 5.2023 with params ['alpha': 0.0095, 'learning_rate_init': 0.0137, 'batch_size': 32]
+current_mae =  4.593760235090474
+new_mae =  5.202251213225923
+0.7262810449122789
+Iteration 29: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 30: New  MAE = 4.8794 with params ['alpha': 0.0161, 'learning_rate_init': 0.0100, 'batch_size': 32]
+current_mae =  5.202251213225923
+new_mae =  4.87942903094825
+Iteration 30: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 31: New  MAE = 4.6211 with params ['alpha': 0.0156, 'learning_rate_init': 0.0156, 'batch_size': 32]
+current_mae =  4.87942903094825
+new_mae =  4.62107560091052
+Iteration 31: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 32: New  MAE = 4.6376 with params ['alpha': 0.0169, 'learning_rate_init': 0.0157, 'batch_size': 32]
+current_mae =  4.62107560091052
+new_mae =  4.637643517602125
+0.9898948549606071
+Iteration 32: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 33: New  MAE = 4.9331 with params ['alpha': 0.0278, 'learning_rate_init': 0.0192, 'batch_size': 32]
+current_mae =  4.637643517602125
+new_mae =  4.933122829300337
+0.8264054905912831
+Iteration 33: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 34: New  MAE = 4.9392 with params ['alpha': 0.0377, 'learning_rate_init': 0.0244, 'batch_size': 32]
+current_mae =  4.933122829300337
+new_mae =  4.939164164879445
+0.9959048178824952
+Iteration 34: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 35: New  MAE = 4.7253 with params ['alpha': 0.0334, 'learning_rate_init': 0.0191, 'batch_size': 32]
+current_mae =  4.939164164879445
+new_mae =  4.725273411214365
+Iteration 35: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 36: New  MAE = 4.9249 with params ['alpha': 0.0523, 'learning_rate_init': 0.0197, 'batch_size': 32]
+current_mae =  4.725273411214365
+new_mae =  4.924870598973208
+0.8605155196625012
+Iteration 36: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 37: New  MAE = 5.7053 with params ['alpha': 0.1126, 'learning_rate_init': 0.0269, 'batch_size': 32]
+current_mae =  4.924870598973208
+new_mae =  5.705286757674242
+0.5388695182867692
+Iteration 37: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 38: New  MAE = 4.1970 with params ['alpha': 0.0577, 'learning_rate_init': 0.0207, 'batch_size': 32]
+current_mae =  5.705286757674242
+new_mae =  4.197001300644165
+Iteration 38: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 39: New  MAE = 4.8149 with params ['alpha': 0.0900, 'learning_rate_init': 0.0278, 'batch_size': 32]
+current_mae =  4.197001300644165
+new_mae =  4.814898157029204
+0.5813445688745457
+Iteration 39: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 40: New  MAE = 5.0503 with params ['alpha': 0.0449, 'learning_rate_init': 0.0160, 'batch_size': 32]
+current_mae =  4.197001300644165
+new_mae =  5.050306688679159
+0.4545325125896797
+Iteration 40: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 41: New  MAE = 3.9784 with params ['alpha': 0.0680, 'learning_rate_init': 0.0159, 'batch_size': 32]
+current_mae =  4.197001300644165
+new_mae =  3.978436932738874
+Iteration 41: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 42: New  MAE = 4.8836 with params ['alpha': 0.0422, 'learning_rate_init': 0.0191, 'batch_size': 32]
+current_mae =  3.978436932738874
+new_mae =  4.883560855604708
+0.3958485319195727
+Iteration 42: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 43: New  MAE = 4.4430 with params ['alpha': 0.0976, 'learning_rate_init': 0.0171, 'batch_size': 32]
+current_mae =  3.978436932738874
+new_mae =  4.443006503782788
+0.6061119948178761
+Iteration 43: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 44: New  MAE = 4.7196 with params ['alpha': 0.0496, 'learning_rate_init': 0.0244, 'batch_size': 32]
+current_mae =  3.978436932738874
+new_mae =  4.719601833712394
+0.4313509898166964
+Iteration 44: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 45: New  MAE = 5.0699 with params ['alpha': 0.0668, 'learning_rate_init': 0.0125, 'batch_size': 32]
+current_mae =  3.978436932738874
+new_mae =  5.069889566297239
+0.27160793484522955
+Iteration 45: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 46: New  MAE = 4.6819 with params ['alpha': 0.0732, 'learning_rate_init': 0.0120, 'batch_size': 32]
+current_mae =  5.069889566297239
+new_mae =  4.681938189411503
+Iteration 46: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 47: New  MAE = 4.7397 with params ['alpha': 0.0567, 'learning_rate_init': 0.0113, 'batch_size': 32]
+current_mae =  4.681938189411503
+new_mae =  4.739718682720364
+0.926394678989888
+Iteration 47: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 48: New  MAE = 4.4891 with params ['alpha': 0.0626, 'learning_rate_init': 0.0092, 'batch_size': 32]
+current_mae =  4.681938189411503
+new_mae =  4.489089263830288
+Iteration 48: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 49: New  MAE = 4.3076 with params ['alpha': 0.0757, 'learning_rate_init': 0.0128, 'batch_size': 32]
+current_mae =  4.489089263830288
+new_mae =  4.307637693870859
+Iteration 49: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Best parameters found: {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Best MAE: 3.8818339990377657
+Iteration 50: New  MAE = 5.0925 with params ['alpha': 0.1299, 'learning_rate_init': 0.0158, 'batch_size': 32]
+current_mae =  4.307637693870859
+new_mae =  5.092479201127982
+0.2978234973670137
+Iteration 50: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 51: New  MAE = 4.7378 with params ['alpha': 0.0495, 'learning_rate_init': 0.0194, 'batch_size': 32]
+current_mae =  4.307637693870859
+new_mae =  4.737843989834863
+0.49713867235670045
+Iteration 51: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 52: New  MAE = 5.3967 with params ['alpha': 0.0560, 'learning_rate_init': 0.0236, 'batch_size': 32]
+current_mae =  4.737843989834863
+new_mae =  5.396718640578004
+0.3241004821918005
+Iteration 52: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 53: New  MAE = 5.0804 with params ['alpha': 0.0418, 'learning_rate_init': 0.0222, 'batch_size': 32]
+current_mae =  4.737843989834863
+new_mae =  5.080362725655427
+0.5398046481618565
+Iteration 53: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 54: New  MAE = 4.7220 with params ['alpha': 0.0727, 'learning_rate_init': 0.0178, 'batch_size': 32]
+current_mae =  4.737843989834863
+new_mae =  4.7220067041785265
+Iteration 54: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 55: New  MAE = 5.0388 with params ['alpha': 0.0192, 'learning_rate_init': 0.0190, 'batch_size': 32]
+current_mae =  4.7220067041785265
+new_mae =  5.038804943440776
+0.5316042484690133
+Iteration 55: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 56: New  MAE = 4.5251 with params ['alpha': 0.0926, 'learning_rate_init': 0.0191, 'batch_size': 32]
+current_mae =  4.7220067041785265
+new_mae =  4.52513760881798
+Iteration 56: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 57: New  MAE = 4.8430 with params ['alpha': 0.0959, 'learning_rate_init': 0.0140, 'batch_size': 32]
+current_mae =  4.52513760881798
+new_mae =  4.842989694562918
+0.49537194923139377
+Iteration 57: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 58: New  MAE = 4.4905 with params ['alpha': 0.0781, 'learning_rate_init': 0.0165, 'batch_size': 32]
+current_mae =  4.842989694562918
+new_mae =  4.490497392118472
+Iteration 58: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 59: New  MAE = 4.8756 with params ['alpha': 0.1966, 'learning_rate_init': 0.0144, 'batch_size': 32]
+current_mae =  4.490497392118472
+new_mae =  4.875597322132175
+0.38945546424605365
+Iteration 59: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 60: New  MAE = 4.9686 with params ['alpha': 0.0866, 'learning_rate_init': 0.0171, 'batch_size': 32]
+current_mae =  4.490497392118472
+new_mae =  4.968607037161599
+0.29159761260572914
+Iteration 60: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 61: New  MAE = 4.9079 with params ['alpha': 0.0959, 'learning_rate_init': 0.0108, 'batch_size': 32]
+current_mae =  4.490497392118472
+new_mae =  4.907873193352891
+0.3222411758536881
+Iteration 61: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 62: New  MAE = 5.2777 with params ['alpha': 0.0854, 'learning_rate_init': 0.0132, 'batch_size': 32]
+current_mae =  4.490497392118472
+new_mae =  5.277708447596065
+0.10557472173213972
+Iteration 62: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 63: New  MAE = 5.0065 with params ['alpha': 0.1072, 'learning_rate_init': 0.0180, 'batch_size': 32]
+current_mae =  4.490497392118472
+new_mae =  5.006528764069954
+0.2119519407080309
+Iteration 63: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 64: New  MAE = 4.9729 with params ['alpha': 0.1230, 'learning_rate_init': 0.0147, 'batch_size': 32]
+current_mae =  4.490497392118472
+new_mae =  4.972936460968302
+0.2172425221069684
+Iteration 64: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 65: New  MAE = 3.9040 with params ['alpha': 0.0809, 'learning_rate_init': 0.0159, 'batch_size': 32]
+current_mae =  4.490497392118472
+new_mae =  3.9039557174614674
+Iteration 65: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 66: New  MAE = 6.2400 with params ['alpha': 0.1658, 'learning_rate_init': 0.0219, 'batch_size': 32]
+current_mae =  3.9039557174614674
+new_mae =  6.239954314635063
+0.00027707744084655764
+Iteration 66: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 67: New  MAE = 5.0013 with params ['alpha': 0.1307, 'learning_rate_init': 0.0157, 'batch_size': 32]
+current_mae =  3.9039557174614674
+new_mae =  5.001301892666633
+0.017415763796328206
+Iteration 67: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 68: New  MAE = 4.7721 with params ['alpha': 0.0842, 'learning_rate_init': 0.0233, 'batch_size': 32]
+current_mae =  3.9039557174614674
+new_mae =  4.7720520115330345
+0.03429194390437846
+Iteration 68: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 69: New  MAE = 5.0182 with params ['alpha': 0.0335, 'learning_rate_init': 0.0243, 'batch_size': 32]
+current_mae =  3.9039557174614674
+new_mae =  5.018212145333239
+0.010492284109650524
+Iteration 69: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 70: New  MAE = 4.9339 with params ['alpha': 0.0799, 'learning_rate_init': 0.0207, 'batch_size': 32]
+current_mae =  3.9039557174614674
+new_mae =  4.933920595393085
+0.011865960739933882
+Iteration 70: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 71: New  MAE = 4.9492 with params ['alpha': 0.0863, 'learning_rate_init': 0.0161, 'batch_size': 32]
+current_mae =  3.9039557174614674
+new_mae =  4.949177230933637
+0.008768477746546186
+Iteration 71: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 72: New  MAE = 5.1293 with params ['alpha': 0.0535, 'learning_rate_init': 0.0138, 'batch_size': 32]
+current_mae =  3.9039557174614674
+new_mae =  5.129259273270188
+0.0028945989913572124
+Iteration 72: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 73: New  MAE = 4.6620 with params ['alpha': 0.2293, 'learning_rate_init': 0.0116, 'batch_size': 32]
+current_mae =  3.9039557174614674
+new_mae =  4.662027065191935
+0.02222686971624585
+Iteration 73: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 74: New  MAE = 5.3011 with params ['alpha': 0.0929, 'learning_rate_init': 0.0218, 'batch_size': 32]
+current_mae =  3.9039557174614674
+new_mae =  5.301087978073201
+0.0006207666496941253
+Iteration 74: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 75: New  MAE = 4.7237 with params ['alpha': 0.0625, 'learning_rate_init': 0.0116, 'batch_size': 32]
+current_mae =  3.9039557174614674
+new_mae =  4.723701110721494
+0.010453563281236129
+Iteration 75: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 76: New  MAE = 5.0751 with params ['alpha': 0.0716, 'learning_rate_init': 0.0187, 'batch_size': 32]
+current_mae =  3.9039557174614674
+new_mae =  5.075132693379158
+0.0010499411587561079
+Iteration 76: Best MAE = 3.8818 with params {'alpha': 0.01912667938865618, 'learning_rate_init': 0.025492397527198143, 'batch_size': 32}
+Iteration 77: New  MAE = 3.7026 with params ['alpha': 0.1332, 'learning_rate_init': 0.0155, 'batch_size': 32]
+current_mae =  3.9039557174614674
+new_mae =  3.7026348007608845
+Iteration 77: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 78: New  MAE = 4.9406 with params ['alpha': 0.2041, 'learning_rate_init': 0.0143, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  4.940562155013468
+0.0003245142077519357
+Iteration 78: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 79: New  MAE = 5.2118 with params ['alpha': 0.0926, 'learning_rate_init': 0.0233, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  5.211802311371506
+3.333989941222618e-05
+Iteration 79: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 80: New  MAE = 4.8089 with params ['alpha': 0.0995, 'learning_rate_init': 0.0199, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  4.808945332996225
+0.0003510185927815865
+Iteration 80: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 81: New  MAE = 4.1663 with params ['alpha': 0.1336, 'learning_rate_init': 0.0163, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  4.166292623172974
+0.029918167576461138
+Iteration 81: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 82: New  MAE = 4.9251 with params ['alpha': 0.1126, 'learning_rate_init': 0.0151, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  4.925092687532695
+5.891628522707511e-05
+Iteration 82: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 83: New  MAE = 5.5138 with params ['alpha': 0.1083, 'learning_rate_init': 0.0230, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  5.513789545280897
+2.532151260121494e-07
+Iteration 83: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 84: New  MAE = 5.3480 with params ['alpha': 0.1812, 'learning_rate_init': 0.0194, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  5.347991888351425
+4.919808405519458e-07
+Iteration 84: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 85: New  MAE = 4.6756 with params ['alpha': 0.1744, 'learning_rate_init': 0.0148, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  4.675562727891964
+0.00011847360939983591
+Iteration 85: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 86: New  MAE = 4.8903 with params ['alpha': 0.1588, 'learning_rate_init': 0.0129, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  4.890291366804421
+9.011473227913008e-06
+Iteration 86: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 87: New  MAE = 4.7555 with params ['alpha': 0.1863, 'learning_rate_init': 0.0141, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  4.755468819928398
+1.9594449617659418e-05
+Iteration 87: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 88: New  MAE = 4.6985 with params ['alpha': 0.1471, 'learning_rate_init': 0.0150, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  4.6985025468269965
+2.053471428925814e-05
+Iteration 88: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 89: New  MAE = 4.3583 with params ['alpha': 0.1859, 'learning_rate_init': 0.0097, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  4.358299893877126
+0.0005641290224778317
+Iteration 89: Best MAE = 3.7026 with params {'alpha': 0.1331984289796228, 'learning_rate_init': 0.015523379484099088, 'batch_size': 32}
+Iteration 90: New  MAE = 3.6133 with params ['alpha': 0.1197, 'learning_rate_init': 0.0136, 'batch_size': 32]
+current_mae =  3.7026348007608845
+new_mae =  3.6132800504825084
+Iteration 90: Best MAE = 3.6133 with params {'alpha': 0.11969680945650253, 'learning_rate_init': 0.01357693436767622, 'batch_size': 32}
+Iteration 91: New  MAE = 4.4835 with params ['alpha': 0.1030, 'learning_rate_init': 0.0097, 'batch_size': 32]
+current_mae =  3.6132800504825084
+new_mae =  4.483527743668564
+1.6686591117115748e-05
+Iteration 91: Best MAE = 3.6133 with params {'alpha': 0.11969680945650253, 'learning_rate_init': 0.01357693436767622, 'batch_size': 32}
+Iteration 92: New  MAE = 4.5627 with params ['alpha': 0.2704, 'learning_rate_init': 0.0123, 'batch_size': 32]
+current_mae =  3.6132800504825084
+new_mae =  4.562711433621067
+3.260750293901215e-06
+Iteration 92: Best MAE = 3.6133 with params {'alpha': 0.11969680945650253, 'learning_rate_init': 0.01357693436767622, 'batch_size': 32}
+Iteration 93: New  MAE = 4.8675 with params ['alpha': 0.1617, 'learning_rate_init': 0.0111, 'batch_size': 32]
+current_mae =  3.6132800504825084
+new_mae =  4.86751634496444
+2.3463668917828872e-08
+Iteration 93: Best MAE = 3.6133 with params {'alpha': 0.11969680945650253, 'learning_rate_init': 0.01357693436767622, 'batch_size': 32}
+Iteration 94: New  MAE = 4.7226 with params ['alpha': 0.1191, 'learning_rate_init': 0.0143, 'batch_size': 32]
+current_mae =  3.6132800504825084
+new_mae =  4.72256532395762
+7.88846296300077e-08
+Iteration 94: Best MAE = 3.6133 with params {'alpha': 0.11969680945650253, 'learning_rate_init': 0.01357693436767622, 'batch_size': 32}
+Iteration 95: New  MAE = 4.7051 with params ['alpha': 0.1031, 'learning_rate_init': 0.0131, 'batch_size': 32]
+current_mae =  3.6132800504825084
+new_mae =  4.7051429164274445
+4.3710030664405016e-08
+Iteration 95: Best MAE = 3.6133 with params {'alpha': 0.11969680945650253, 'learning_rate_init': 0.01357693436767622, 'batch_size': 32}
+Iteration 96: New  MAE = 4.9603 with params ['alpha': 0.1540, 'learning_rate_init': 0.0154, 'batch_size': 32]
+current_mae =  3.6132800504825084
+new_mae =  4.960312700939251
+2.772145767297702e-10
+Iteration 96: Best MAE = 3.6133 with params {'alpha': 0.11969680945650253, 'learning_rate_init': 0.01357693436767622, 'batch_size': 32}
+Iteration 97: New  MAE = 4.0789 with params ['alpha': 0.0715, 'learning_rate_init': 0.0163, 'batch_size': 32]
+current_mae =  3.6132800504825084
+new_mae =  4.078905024282898
+0.00033305907426591804
+Iteration 97: Best MAE = 3.6133 with params {'alpha': 0.11969680945650253, 'learning_rate_init': 0.01357693436767622, 'batch_size': 32}
+Iteration 98: New  MAE = 4.4194 with params ['alpha': 0.0702, 'learning_rate_init': 0.0129, 'batch_size': 32]
+current_mae =  3.6132800504825084
+new_mae =  4.4194301907415365
+4.5968724714197027e-07
+Iteration 98: Best MAE = 3.6133 with params {'alpha': 0.11969680945650253, 'learning_rate_init': 0.01357693436767622, 'batch_size': 32}
+Iteration 99: New  MAE = 4.5659 with params ['alpha': 0.0896, 'learning_rate_init': 0.0096, 'batch_size': 32]
+current_mae =  3.6132800504825084
+new_mae =  4.565920094111155
+1.3081802899511463e-08
+Iteration 99: Best MAE = 3.6133 with params {'alpha': 0.11969680945650253, 'learning_rate_init': 0.01357693436767622, 'batch_size': 32}
+Best parameters found: {'alpha': 0.11969680945650253, 'learning_rate_init': 0.01357693436767622, 'batch_size': 32}
+Best MAE: 3.6132800504825084
